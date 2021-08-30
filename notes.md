@@ -8,6 +8,9 @@
 
 > pip install simpleaudio
 
+> conda install -c conda-forge python-sounddevice
+
+> conda install -c conda-forge scipy
 
 ## References:
 
